@@ -1,4 +1,4 @@
-function skillMember() {
+function skillsMember() {
   const member = {
     name: 'name',
     age: 0,
